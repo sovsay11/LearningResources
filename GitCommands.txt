@@ -1,2 +1,9 @@
 # Creates a repository to use, pretty basic
 git init
+
+# Adding and committing, omit the -m for multiline messages
+git add .
+git add "fileName"
+git commit -m
+git commit
+
