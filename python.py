@@ -6,8 +6,32 @@ thisDict = {
     "year": 1964
 }
 
-print(thisDict)
+sal_info = {
+    "Austin": 91185,
+    "Boston": 90171,
+    "San Jose": 100989,
+    "Atlanta": 85155
+}
 
-# this grabs the length of the dictionary
-print(len(thisDict))
+# Adding and updating key values
+sal_info["Boston"] = 95123
+sal_info["Atlanta"] = 91234
+
+# Removing entries
+del sal_info["Atlanta"]
+
+# Clearing the dictionary
+# sal_info.clear()
+
+# Showing results
+# -----------------------------------------------------
+
+# Grabbing a value and checking for one using the in keyword
+# if "Austin" in sal_info:
+#     print(sal_info["Austin"])
+# else:
+#     print("Not found")
+
+# print(sal_info)
+# print(len(sal_info))
 
