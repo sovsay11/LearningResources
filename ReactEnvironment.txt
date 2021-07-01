@@ -1,0 +1,8 @@
+- Starting a server to test the React page
+npm start
+
+- Creating an initial React project using Facebook's setup commands (not really sure what --use-npm does, look up later)
+npx create-react-app nameOfProject --use-npm
+
+- Adding router functionality to a React page
+npm install --save react-router-dom
