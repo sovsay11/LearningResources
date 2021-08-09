@@ -1,0 +1,1 @@
+This folder is a collection of projects made from tutorials.
