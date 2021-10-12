@@ -14,6 +14,10 @@ namespace AES_Encryption
   {
     public static void Main()
     {
+      // random is alright for students ----------------
+      // stick with the random, encryption, and parameters, leave out decryption
+      // json deserializer? save that for the mobile portion—still need to contact board about devices
+
       // for randomizing the byte array elements
       Random random = new Random();
       byte[] randByte = new byte[16];
@@ -34,6 +38,8 @@ namespace AES_Encryption
       string aa = "link";
       string oid = aa;
       string mrn = "121212";
+
+      // working with parameters would be a good introduction to web ----------------
 
       /////// full parameter list
       string urlParameters = $"something={aa}&something2={mrn}&something3=CR12345&something4={oid}&something5=John&something6=Smith&something7=20001010&something8=BOTH";
@@ -59,6 +65,8 @@ namespace AES_Encryption
         // fix = fix.Replace('+', '-');
         // fix = fix.Replace('/', '_');
 
+
+        // disregard styling ----------------
         Console.WriteLine();
 
         ///////// Encrypted data in different formats
@@ -119,6 +127,7 @@ namespace AES_Encryption
 
     /// <summary>
     /// Converts byte array to hex values
+    /// leave out hex values for students, not necessary
     /// </summary>
     /// <param name="input"></param>
     /// <returns></returns>
