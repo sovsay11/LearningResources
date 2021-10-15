@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WPFDocksStacks/1.0.0": {
+        "runtime": {
+          "WPFDocksStacks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPFDocksStacks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
