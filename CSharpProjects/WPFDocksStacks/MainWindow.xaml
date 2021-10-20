@@ -6,7 +6,21 @@
         xmlns:local="clr-namespace:WPFDocksStacks"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+
   <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto"></RowDefinition>
+      <RowDefinition Height="*"></RowDefinition>
+    </Grid.RowDefinitions>
+    <TextBox Text="{Binding SearchText, UpdateSourceTrigger=PropertyChanged}">
+      <TextBox.InputBindings>
+        <KeyBinding Key="Enter" Command="{Binding EnterKeyCommand}"/>
+      </TextBox.InputBindings>
+    </TextBox>
+    <ListBox Grid.Row="1"  ItemsSource="{Binding MyFilteredItems}"></ListBox>
+  </Grid>
+
+  <!--<Grid>
     <Grid.ColumnDefinitions>
       <ColumnDefinition />
     </Grid.ColumnDefinitions>
@@ -50,5 +64,5 @@
                  FontSize="14"
                  FontWeight="Bold"/>
     </StackPanel>
-  </Grid>
+  </Grid>-->
 </Window>
