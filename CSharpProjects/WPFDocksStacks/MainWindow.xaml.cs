@@ -54,6 +54,8 @@ namespace WPFDocksStacks
 
       MyItems = new List<string>() { "ABC", "DEF", "GHI" };
 
+      // test comment for pushes
+
       
 
       this.DataContext = this;
