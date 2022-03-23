@@ -1,0 +1,15 @@
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\bin\Debug\net6.0\AESEncryption.exe
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\bin\Debug\net6.0\AESEncryption.deps.json
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\bin\Debug\net6.0\AESEncryption.runtimeconfig.json
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\bin\Debug\net6.0\AESEncryption.dll
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\bin\Debug\net6.0\AESEncryption.pdb
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\obj\Debug\net6.0\AESEncryption.csproj.AssemblyReference.cache
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\obj\Debug\net6.0\AESEncryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\obj\Debug\net6.0\AESEncryption.AssemblyInfoInputs.cache
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\obj\Debug\net6.0\AESEncryption.AssemblyInfo.cs
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\obj\Debug\net6.0\AESEncryption.csproj.CoreCompileInputs.cache
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\obj\Debug\net6.0\AESEncryption.dll
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\obj\Debug\net6.0\refint\AESEncryption.dll
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\obj\Debug\net6.0\AESEncryption.pdb
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\obj\Debug\net6.0\AESEncryption.genruntimeconfig.cache
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\obj\Debug\net6.0\ref\AESEncryption.dll

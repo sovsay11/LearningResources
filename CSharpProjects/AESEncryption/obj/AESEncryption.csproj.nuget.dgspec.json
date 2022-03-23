@@ -1,39 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\noahs\\OneDrive - DHI Computing Service INC\\Documents\\GitHub\\LearningResources\\CSharpProjects\\AESEncryption\\AESEncryption.csproj": {}
+    "C:\\Users\\sovan\\Documents\\GitHub\\LearningResources\\CSharpProjects\\AESEncryption\\AESEncryption.csproj": {}
   },
   "projects": {
-    "C:\\Users\\noahs\\OneDrive - DHI Computing Service INC\\Documents\\GitHub\\LearningResources\\CSharpProjects\\AESEncryption\\AESEncryption.csproj": {
+    "C:\\Users\\sovan\\Documents\\GitHub\\LearningResources\\CSharpProjects\\AESEncryption\\AESEncryption.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\noahs\\OneDrive - DHI Computing Service INC\\Documents\\GitHub\\LearningResources\\CSharpProjects\\AESEncryption\\AESEncryption.csproj",
+        "projectUniqueName": "C:\\Users\\sovan\\Documents\\GitHub\\LearningResources\\CSharpProjects\\AESEncryption\\AESEncryption.csproj",
         "projectName": "AESEncryption",
-        "projectPath": "C:\\Users\\noahs\\OneDrive - DHI Computing Service INC\\Documents\\GitHub\\LearningResources\\CSharpProjects\\AESEncryption\\AESEncryption.csproj",
-        "packagesPath": "C:\\Users\\noahs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\noahs\\OneDrive - DHI Computing Service INC\\Documents\\GitHub\\LearningResources\\CSharpProjects\\AESEncryption\\obj\\",
+        "projectPath": "C:\\Users\\sovan\\Documents\\GitHub\\LearningResources\\CSharpProjects\\AESEncryption\\AESEncryption.csproj",
+        "packagesPath": "C:\\Users\\sovan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sovan\\Documents\\GitHub\\LearningResources\\CSharpProjects\\AESEncryption\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\noahs\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\sovan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -44,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -61,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

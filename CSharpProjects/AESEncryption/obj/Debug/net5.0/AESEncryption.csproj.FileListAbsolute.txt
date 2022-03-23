@@ -14,3 +14,19 @@ C:\Users\noahs\OneDrive - DHI Computing Service INC\Documents\GitHub\LearningRes
 C:\Users\noahs\OneDrive - DHI Computing Service INC\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\obj\Debug\net5.0\ref\AESEncryption.dll
 C:\Users\noahs\OneDrive - DHI Computing Service INC\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\obj\Debug\net5.0\AESEncryption.pdb
 C:\Users\noahs\OneDrive - DHI Computing Service INC\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\obj\Debug\net5.0\AESEncryption.genruntimeconfig.cache
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\bin\Debug\net5.0\AESEncryption.exe
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\bin\Debug\net5.0\AESEncryption.deps.json
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\bin\Debug\net5.0\AESEncryption.runtimeconfig.json
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\bin\Debug\net5.0\AESEncryption.runtimeconfig.dev.json
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\bin\Debug\net5.0\AESEncryption.dll
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\bin\Debug\net5.0\AESEncryption.pdb
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\obj\Debug\net5.0\AESEncryption.csproj.AssemblyReference.cache
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\obj\Debug\net5.0\AESEncryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\obj\Debug\net5.0\AESEncryption.AssemblyInfoInputs.cache
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\obj\Debug\net5.0\AESEncryption.AssemblyInfo.cs
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\obj\Debug\net5.0\AESEncryption.csproj.CoreCompileInputs.cache
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\obj\Debug\net5.0\AESEncryption.dll
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\obj\Debug\net5.0\refint\AESEncryption.dll
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\obj\Debug\net5.0\AESEncryption.pdb
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\obj\Debug\net5.0\AESEncryption.genruntimeconfig.cache
+C:\Users\sovan\Documents\GitHub\LearningResources\CSharpProjects\AESEncryption\obj\Debug\net5.0\ref\AESEncryption.dll
